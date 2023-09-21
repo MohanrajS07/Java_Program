@@ -6,7 +6,7 @@ public class Ternary_Operator {
 		int a=20,b=200;
 		String c=a>b?"True":"False";
 		System.out.println(c);
-
+		
 	}
 
 }
