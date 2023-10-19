@@ -37,7 +37,7 @@ public class Declaring_Getter_And_Setter_Method {
 		System.out.println("The Employee Id : "+e.getId());
 		System.out.println("The Employee Name : "+e.getName());
 		System.out.println("The Employee Job Description: "+e.getJob_desc());
-		e.display();
+		//e.display();
 		
 
 	}
